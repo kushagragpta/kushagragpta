@@ -1,5 +1,5 @@
 Hi there 👋
-I'm a front-end focused developer who specialises in JavaScript. I have over 8 years experience creating and optimising web UI's, apps and deliverables. I mainly work with React and Vue, and headless software in the web.
+I'm a front-end focused developer who specialises in JavaScript. I have over 6 years experience creating and optimising web UI's, apps and deliverables. I mainly work with React and Vue, and headless software in the web.
 
 Things I've Worked On:
 
@@ -7,7 +7,7 @@ Things I've Worked On:
 
 🧑‍🎨 - SME Design Consultancies and built ✨beautiful✨ web applications for brands and orgs like London School of Buisness
 
-🛒 - Created and contributed to lots of different eCommerce applications.
+🛒 - Created and contributed to lots of different cloud, web conferencing, iot applications.
 
 Things I Want to Work On:
 
